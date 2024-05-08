@@ -1,4 +1,4 @@
-package com.example.havadurumu.presentation.ui
+package com.example.havadurumu.presentation.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

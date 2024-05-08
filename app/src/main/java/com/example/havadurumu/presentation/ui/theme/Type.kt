@@ -1,4 +1,4 @@
-package com.example.havadurumu.presentation.ui
+package com.example.havadurumu.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

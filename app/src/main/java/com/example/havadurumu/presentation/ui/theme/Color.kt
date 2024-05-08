@@ -1,4 +1,4 @@
-package com.example.havadurumu.presentation.ui
+package com.example.havadurumu.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
